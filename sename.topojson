@@ -1,11 +1,11 @@
 { "type": "FeatureCollection",
 "features": [
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3464552, -33.4407103]},"properties": {"Hogar": "hogar1", "direccion": "direccion1", "Sostenedor": "sostenedor1", "Cantidad de niños": "100"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [, ]},"properties": {"Hogar": "", "direccion": ""} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [, ]},"properties": {"Hogar": "", "direccion": ""} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [, ]},"properties": {"Hogar": "", "direccion": ""} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [, ]},"properties": {"Hogar": "", "direccion": ""} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [, ]},"properties": {"Hogar": "", "direccion": ""} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [, ]},"properties": {"Hogar": "", "direccion": ""} }
+{'type': 'Feature', 'geometry': { 'type': 'Point', 'coordinates': [289.3464552, -33.4407103]},'properties': {'Hogar': 'hogar1', 'direccion': 'direccion1', 'Sostenedor': 'sostenedor1', 'Cantidad de niños': '100'} },
+{'type': 'Feature', 'geometry': { 'type': 'Point', 'coordinates': [289.3464551, -33.4407104]},'properties': {'Hogar': 'hogar2', 'direccion': 'direccion2', 'Sostenedor': 'sostenedor2', 'Cantidad de niños': '100'} },
+{'type': 'Feature', 'geometry': { 'type': 'Point', 'coordinates': [289.346455, -33.4407105]},'properties': {'Hogar': 'hogar3', 'direccion': 'direccion3', 'Sostenedor': 'sostenedor3', 'Cantidad de niños': '100'} },
+{'type': 'Feature', 'geometry': { 'type': 'Point', 'coordinates': [289.3464549, -33.4407106]},'properties': {'Hogar': 'hogar4', 'direccion': 'direccion4', 'Sostenedor': 'sostenedor4', 'Cantidad de niños': '100'} },
+{'type': 'Feature', 'geometry': { 'type': 'Point', 'coordinates': [289.3464548, -33.4407107]},'properties': {'Hogar': 'hogar5', 'direccion': 'direccion5', 'Sostenedor': 'sostenedor5', 'Cantidad de niños': '100'} },
+{'type': 'Feature', 'geometry': { 'type': 'Point', 'coordinates': [289.3464547, -33.4407108]},'properties': {'Hogar': 'hogar6', 'direccion': 'direccion6', 'Sostenedor': 'sostenedor6', 'Cantidad de niños': '100'} },
+{'type': 'Feature', 'geometry': { 'type': 'Point', 'coordinates': [289.3464546, -33.4407109]},'properties': {'Hogar': 'hogar7', 'direccion': 'direccion7', 'Sostenedor': 'sostenedor7', 'Cantidad de niños': '100'} }
   ]  
 }
