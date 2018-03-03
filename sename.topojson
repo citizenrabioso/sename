@@ -1,1 +1,11 @@
-
+{ "type": "FeatureCollection",
+"features": [
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3464552, -33.4407103]},"properties": {"Hogar": "hogar1", "direccion": "direccion1", "Sostenedor": "sostenedor1", "Cantidad de niños": "100"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [, ]},"properties": {"Hogar": "", "direccion": ""} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [, ]},"properties": {"Hogar": "", "direccion": ""} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [, ]},"properties": {"Hogar": "", "direccion": ""} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [, ]},"properties": {"Hogar": "", "direccion": ""} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [, ]},"properties": {"Hogar": "", "direccion": ""} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [, ]},"properties": {"Hogar": "", "direccion": ""} }
+  ]  
+}
